@@ -24,6 +24,12 @@
         </license>
     </licenses>
 
+    <modules>
+        <module>examples/jetty-webhook-echobot</module>
+        <module>examples/longpolling-echobot</module>
+        <module>examples/tomcat-webhook-echobot</module>
+    </modules>
+
     <scm>
         <url>https://github.com/max-messenger/max-bot-sdk-java</url>
         <connection>scm:git:https://github.com/max-messenger/max-bot-sdk-java.git</connection>
